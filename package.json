@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,5 @@
   "dependencies": {
     "express": "expressjs/express"
   },
-  "homepage": "https://github.com/FlipperCoin/openshift-node#readme"
+  "homepage": "https://github.com/FlipperCoin/openshift-node#readme",
 }
