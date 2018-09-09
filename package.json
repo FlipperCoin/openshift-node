@@ -19,5 +19,5 @@
   "dependencies": {
     "express": "expressjs/express"
   },
-  "homepage": "https://github.com/FlipperCoin/openshift-node#readme",
+  "homepage": "https://github.com/FlipperCoin/openshift-node#readme"
 }
